@@ -1,5 +1,7 @@
 # Financial-Literacy-and-Awareness-among-Urban-Areas
 Outreach Programme Report at Promoting Financial  Literacy &amp; Awareness Among the Households in  Raghabpur village
+
+
 📌 Project Overview
 
 This project focuses on assessing and promoting financial literacy among households in Raghabpur, an urban village. As part of an outreach programme, data was collected from 40+ families to understand their current level of financial awareness, saving habits, access to banking services, and overall financial decision-making practices.
